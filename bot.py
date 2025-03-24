@@ -7,7 +7,7 @@ client=OpenAI(api_key = key)
 
 """
 This file implements the bot logic
-Basil Ali, 000840897
+Basil Ali
 """
 def read_few_shots(filename):
     """

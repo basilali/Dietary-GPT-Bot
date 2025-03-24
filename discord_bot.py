@@ -3,7 +3,7 @@ from bot import *
 
 """
 This file integrates the bot into discord
-Basil Ali, 000840897
+Basil Ali
 """
 class MyClient(discord.Client):
     """Class to represent the Client (bot user)"""
