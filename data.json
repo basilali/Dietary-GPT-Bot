@@ -1,0 +1,18 @@
+[
+    { "input": "Make this recipe keto-friendly: 2 cups flour, 1 cup sugar, 3 eggs", "label": 1 },
+    { "input": "Convert this to a vegetarian recipe: ground beef, onions, garlic, tomato sauce", "label": 1 },
+    { "input": "I want this to be high-protein: oats, bananas, almond milk, chia seeds", "label": 1 },
+    { "input": "Turn this into a gluten-free version: whole wheat pasta, Parmesan, butter, cream", "label": 1 },
+    { "input": "White bread, deli ham, mayo, cheddar cheese", "label": 1 },
+    { "input": "Can this be made vegan", "label": 1 },
+    { "input": "what was the last thing I asked you about", "label": 1 },
+    { "input": "About the last thing I asked you", "label": 1 },
+    { "input": "What's the capital of France", "label": 0 },
+    { "input": "Tell me a joke about bread", "label": 0 },
+    { "input": "How many grams in a pound", "label": 0 },
+    { "input": "What time does the grocery store close", "label": 0 },
+    { "input": "Tell me about the Theory of Relativity", "label": 0 },
+    { "input": "How do I reset my microwave", "label": 0 },
+    { "input": "Do you believe in aliens", "label": 0 },
+    { "input": "What can you help me with?", "label": 1 }
+]
